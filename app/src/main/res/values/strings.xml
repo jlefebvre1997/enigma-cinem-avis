@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">cinem-avis</string>
+    <string name="form_title_label">Titre du film</string>
+    <string name="form_scenario_mark_label">Note du scénario</string>
+    <string name="form_realisation_mark_label">Note de la réalisation</string>
+    <string name="form_music_mark_label">Note de la bande originale</string>
+    <string name="form_description_label">Description</string>
 </resources>
